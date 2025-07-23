@@ -1,4 +1,4 @@
-# 🐍 Snake Game 🐍
+# Snake Game 🐍
 
 A classic Snake game built with Python and Tkinter, featuring a modern UI, animations, and special gameplay elements.
 
